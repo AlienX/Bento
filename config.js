@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Lasertag Arena Siegen',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Guten Morgen!',
+	greetingAfternoon: 'Guten Nachmittag,',
+	greetingEvening: 'Guten Abend,',
+	greetingNight: 'Geh schlafen!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'Homepage',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://www.lasertag-arena-siegen.de/',
 		},
 		{
 			id: '2',
